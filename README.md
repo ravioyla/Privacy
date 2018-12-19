@@ -1,0 +1,2 @@
+# Privacy
+Privacy For BSGame
