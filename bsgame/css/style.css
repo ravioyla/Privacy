@@ -1,0 +1,178 @@
+.ui-pages {
+  padding: 10px 25px 0;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.ui-case-bg {
+  background: #fff url("../images/28qp_case_bg.png") top repeat-x;
+}
+
+.ui-case-top {
+  height: 140px;
+  text-align: center;
+}
+
+.ui-case-top img {
+  width: 108px;
+  height: 108px;
+  margin-top: 16px;
+}
+
+/* .ui-case-content {
+  margin-top: 149px;
+} */
+
+.ui-qq-logo1 {
+  margin: 26px 0 0 127px;
+}
+
+.ui-qq-logo2 {
+  margin: 0 0 16px 36px;
+}
+
+.ui-qqgame-ico {
+  float: right;
+  margin: 34px 86px 0 0;
+}
+
+.ui-qqgame-ico li {
+  float: left;
+  margin-left: 10px;
+}
+
+/* .ui-case-content-left {
+  width: 565px;
+  float: left;
+} */
+
+.ui-news-info {
+  height: 39px;
+  line-height: 39px;
+  display: block;
+  padding-left: 20px;
+  border-top: 1px dotted #c3c3c3;
+  border-bottom: 1px dotted #c3c3c3;
+}
+
+.ui-news-info span {
+  margin-right: 20px;
+  color: #666;
+  font-size: 14px;
+}
+
+a.ui-font-great {
+  background-position: 0 0;
+}
+
+a.ui-font-medium {
+  background-position: -30px 0;
+}
+
+a.ui-font-small {
+  background-position: -60px 0;
+}
+
+.ui-set-font a.ui-font-great.active {
+  background-position: 0 -30px;
+}
+
+.ui-set-font a.ui-font-medium.active {
+  background-position: -30px -30px;
+}
+
+.ui-set-font a.ui-font-small.active {
+  background-position: -60px -30px;
+}
+
+.ui-case-details p,
+.ui-qq-details p {
+  font-size: 18px;
+  line-height: 26px;
+  color: #404040;
+}
+
+.ui-case-details p > span {
+  font-size: 18px;
+  line-height: 26px;
+  color: #797979;
+}
+
+.ui-case-details p > a:link {
+  color: #404040;
+}
+
+.ui-case-details {
+  padding: 22px 14px 18px;
+  border-bottom: 1px dashed #c3c3c3;
+}
+
+.ui-qq-details {
+  padding: 20px 14px;
+}
+
+.ui-qq-details p {
+  text-indent: 32px;
+  margin-bottom: 26px;
+}
+
+.ui-case-content-right {
+  /* float: right;
+  width: 600px; */
+  text-align: center;
+  margin: -4px 1px 0 0;
+  margin-top: 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.ui-case-content-right p {
+  line-height: 22px;
+  color: #8b8b8b;
+  margin-bottom: 5px;
+}
+
+.ui-case-content-right img {
+  width: 216px;
+}
+
+.ui-font-great .ui-qq-details p,
+.ui-font-great .ui-case-details p,
+.ui-font-great .ui-case-details p > span {
+  font-size: 18px !important;
+}
+
+.ui-font-medium .ui-qq-details p,
+.ui-font-medium .ui-case-details p,
+.ui-font-medium .ui-case-details p > span {
+  font-size: 16px !important;
+}
+
+.ui-font-small .ui-qq-details p,
+.ui-font-small .ui-case-details p,
+.ui-font-small .ui-case-details p > span {
+  font-size: 14px !important;
+}
+
+.ui-case-bottom {
+  padding: 20px 0;
+  border-top: 1px solid #c3c3c3;
+}
+
+.ui-case-bottom p{
+  text-align: center;
+
+}
+
+.ui-case-bottom p span {
+  font-size: 18px;
+  /* font-weight: bold; */
+  padding: 0 180px;
+}
